@@ -1,6 +1,6 @@
 name: Ramani Bistro Events
 favicon: null
-layout_spectrum: 0.2996560644824058
+layout_spectrum: 1
 typography_spectrum: 0.8329493682831526
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.11283074272796512
-  lightness: 0.43662878568284214
-  saturation: 0.19932382344268262
+  brandStrength: 0.5625
+  lightness: 0.25
+  saturation: 0.375
   rhythmicContrast: 0.6848829234950244
 purpose: []
