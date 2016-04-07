@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ramani Bistro Events]]></title>
+        <description><![CDATA[Ramani Bistro Events]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Apr 2016 04:25:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e8d0235-55d1-47d7-b888-b986b51773c7.jpg">]]></description>
+            <link>undefineda1024744-7819-48cf-89ef-3297c1d5aa85/index.html</link>
+            <guid isPermaLink="false">a1024744-7819-48cf-89ef-3297c1d5aa85</guid>
+            <pubDate>Thu, 07 Apr 2016 04:23:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
