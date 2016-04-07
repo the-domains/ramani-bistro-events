@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Ramani Bistro Events]]></title>
         <description><![CDATA[Ramani Bistro Events]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ramani-bistro-events/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 04:25:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Apr 2016 04:25:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ramani-bistro-events/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6edfddeb-5abc-442e-8502-354d031d96bd.jpg">]]></description>
+            <link>https://thegrid.ai/ramani-bistro-events/44a60081-db04-4dda-b9ff-e6c8e35122a1/index.html</link>
+            <guid isPermaLink="false">44a60081-db04-4dda-b9ff-e6c8e35122a1</guid>
+            <pubDate>Thu, 07 Apr 2016 04:24:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e8d0235-55d1-47d7-b888-b986b51773c7.jpg">]]></description>
-            <link>undefineda1024744-7819-48cf-89ef-3297c1d5aa85/index.html</link>
+            <link>https://thegrid.ai/ramani-bistro-events/a1024744-7819-48cf-89ef-3297c1d5aa85/index.html</link>
             <guid isPermaLink="false">a1024744-7819-48cf-89ef-3297c1d5aa85</guid>
             <pubDate>Thu, 07 Apr 2016 04:23:40 GMT</pubDate>
         </item>
