@@ -1,0 +1,28 @@
+name: Ramani Bistro Events
+favicon: null
+layout_spectrum: 0.2996560644824058
+typography_spectrum: 0.8329493682831526
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.11283074272796512
+  lightness: 0.43662878568284214
+  saturation: 0.19932382344268262
+  rhythmicContrast: 0.6848829234950244
+purpose: []
